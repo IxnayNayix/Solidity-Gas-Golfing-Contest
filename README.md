@@ -1,0 +1,1 @@
+Solidity Gas Golfing Contest
